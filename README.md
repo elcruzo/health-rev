@@ -19,7 +19,7 @@ Before you can run HealthRev, make sure you have the following prerequisites ins
 
 - Swift (version 5.9)
 - Docker (version 21.0)
-- Any other specific dependencies
+- Vapor Framework (version 18.7.4)
 
 ### Installation Steps
 
