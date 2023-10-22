@@ -59,7 +59,7 @@ We welcome contributions from the community! If you'd like to contribute to Heal
 4. Submit a pull request.
    
 ## License
-This project is licensed under the [LICENSE] - see the LICENSE file for details.
+This project is licensed under the [LICENSE](LICENSE) - see the LICENSE file for details.
 
 ## Acknowledgments
 This project was designed by a four-person team at [HackHavard2023](https://hackharvard.io/). We are: [ElCruzo](https://github.com/elcruzo), [Candice](https://github.com/CandiceHines), [Nia](https://github.com/NiaAnderson), [James](https://github.com/James23xr) for their contributions to this project.
