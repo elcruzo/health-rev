@@ -1,0 +1,4 @@
+module XCTVapor {
+    header "/Users/elcruzo/Documents/Code/HackHarvard/healthrev-swift/health-rev/.build/arm64-apple-macosx/debug/XCTVapor.build/XCTVapor-Swift.h"
+    requires objc
+}

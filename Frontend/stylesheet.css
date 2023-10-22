@@ -1,0 +1,470 @@
+body {
+    font-family:'Raleway';
+    background-color: white;
+    padding: 1rem;
+}
+
+p {
+	color: black;
+}
+
+header {
+    width: 100%;
+    background-color: white;
+}
+.navbar-header {
+    position: relative;
+    margin-right: auto;
+}
+
+.stp-bar, .navbar-nav {
+    
+    display: flex;
+    margin: 0 auto;
+    flex-direction: row;
+    flex-grow: 1;
+    margin-left: auto;
+    justify-content: end;
+    list-style-type: none;
+}
+
+.bar {
+    justify-content: space-between;
+    margin-top: 35px;
+    padding-bottom: 3rem;
+}
+
+.navbar-brand {
+    justify-content: start;
+}
+
+/*.flex-row {
+    display: flex;
+    flex-wrap: wrap;
+}*/
+
+.emerge-logo {
+	width: 270px;
+	height: 70px;
+	background-color: white;
+	margin-left: 30px;
+}
+
+.sign-in-button, .create-account-button {
+	color: rgba(39, 30, 3, 1);
+	border: none;
+	font-size: 1.5rem !important;
+	background-color: white;
+	font-family:'Raleway' ;
+	font-weight: bold !important;
+	margin-left: 25px;
+	border-radius: 4px;
+	padding: 10px;
+	transition: border .1s;
+}
+
+img.img1 {
+    width: 1046;
+    height: 814;
+}
+
+.create-account-button:hover, .sign-in-button:hover {
+	border-radius: 6px;
+  	border: 2px solid  rgb(90, 76, 34);
+}
+
+.about-us-button{
+    color: rgb(255, 255, 255);
+    border: none;
+    font-size: 1.5rem !important;
+    background-color:rgb(161, 123, 7);
+    font-family:'Raleway';
+    font-weight: lighter !important;
+    margin-left: 25px;
+    border-radius: 7px;
+    padding: 20px;
+    transition: border .4s;
+}
+
+.about-us-button:hover{
+    border-radius: 4px;
+    border:1px solid rgb(161, 123, 7);
+}
+
+.get-started-button{
+    color:white;
+    border: none;
+    font-size: 1.25rem;
+    background-color:rgba(133, 100, 4, 1);
+    font-family:"Raleway";
+    font-weight: bold;
+    margin-left: 0px;
+    border-radius: 10px;
+    padding: 1.2em;
+    transition: border .4s;
+    padding-right: 2.5vw;
+    padding-left: 1.5vw;
+}
+
+.sign-up-button{
+    color:white;
+    border: none;
+    font-size: 1.7rem;
+    background-color:rgba(133, 100, 4, 1);
+    font-family:"Raleway";
+    font-weight: bold;
+    margin-left: 3rem;
+    border-radius: 10px;
+    padding: 0.9em;
+    transition: border .4s;
+    padding-right: 3.5vw;
+    padding-left: 3.5vw;
+    margin-top: 1rem;  
+}
+
+.learn-more-button{
+    color:rgba(39, 30, 3, 1);
+    border: 3px solid  rgb(90, 76, 34);
+    font-size: 1.7rem;
+    background-color:rgba(255, 255, 255, 1);
+    font-family:'Raleway';
+    padding: 0.9em;
+    font-weight: 700;
+    border-radius: 10px;
+    padding-right: 3.5vw;
+    padding-left: 3.5vw;
+    transition: border .4s;
+    margin-left: 0;
+    margin-top: 1rem;
+}
+
+.learn-more-button:hover{
+    background-color: rgb(224, 219, 219);
+    border: 1px solid rgb(161, 123, 7);
+    padding-left: 1.2rem;
+    padding-right: 2rem;
+}
+
+.get-started-button:hover {
+    background-color: white;
+    border: 3px solid rgb(90, 76, 34);
+}
+
+.sign-up-button:hover {
+    background-color: white;
+    border: 1px solid rgb(90, 76, 34);
+}
+
+.link1 {
+    text-decoration: none;
+    color: rgb(224, 219, 219);
+}
+
+.link1:hover {
+    color: black;
+    text-decoration: none;
+}
+
+.link2 {
+    text-decoration: none;
+    color: #271E03;   
+}
+
+.link2:hover {
+    color: #271E03;
+    text-decoration: none;
+}
+
+.link3 {
+    text-decoration: none;
+    color: rgb(224, 219, 219);
+}
+
+.link3:hover {
+    color: black;
+    text-decoration: none;
+}
+
+.text-1 {
+	font-family:'Montserrat';
+	font-weight: 600;
+	line-height: 5.5rem;
+	color:rgba(39, 30, 3, 1);
+	width: 100%;
+	margin-bottom: 0px;
+}
+
+.text-2 {
+	font-weight: 500;
+	line-height: 33.49px;
+	color:rgba(39, 30, 3, 1);
+	width: 100%;
+    margin-top: 0.5rem;
+}
+
+.text-3 {
+    font-family:'Raleway';
+    font-weight: normal;
+    line-height: 1.5rem;
+    color:rgba(39, 30, 3, 1);
+    margin-bottom: 0px;    
+    margin-left:0;
+}
+
+.text-4 {
+	font-family:'poppins';
+	font-weight: normal;
+	line-height: 1em;
+	color: rgba(39, 30, 3, 1);
+	margin-left:0;
+    margin-top: 2.3rem;
+}
+
+
+button.navbar-toggler {
+    border: none;
+}
+
+.joinusfoot {
+    color: black;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.joinusfoot:hover {
+    color: rgba(133, 100, 4, 1);
+}
+
+.under {
+    line-height: 3rem;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook-f {
+    background: #3b5998;
+    color: white;
+    border-radius: 7.5px;
+    padding-right: 0.45rem;
+    padding-left: 0.35rem;
+    padding-top: 0.3rem;
+}
+
+.fa-facebook-f:hover {
+    color: #3b5998;
+    background: white;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+    padding-top: 0.35rem;
+    padding-left: 0.35rem;
+    padding-right: 0.35rem;
+    padding-bottom: 0.15rem;
+    border-radius: 50%;
+}
+
+.fa-twitter:hover {
+    color: #55ACEE;
+    background: white;
+}
+
+.fa-linkedin {
+    color: #007bb5;
+    background: white;
+    font-size: larger;
+    border-radius: 50%;
+}
+
+.fa-linkedin:hover {
+    color: white;
+    background: #007bb5;
+    border: none;
+}
+
+.fa-instagram {
+    background: white;
+    color: black;
+    border-radius: 50%;
+    font-size: larger;
+}
+
+.fa-instagram:hover {
+    color: white;
+    background: black;
+    border: none;
+}
+
+.fa-github {
+    background: white;
+    color: black;
+    font-size: larger;
+}
+
+.fa-github:hover {
+    color: white;
+    background: black;
+    border-radius: 13px;
+}
+
+#final {
+    font-family: "Montserrat";
+}
+
+
+
+h3.foot {
+    display: inline-block;
+}
+
+@media only screen and (max-width: 577px) {
+    .img1 {
+        display: block;
+    }
+    .img2 {
+        display: none;
+    }
+    .text-1 {
+        line-height: 35px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .img1 {
+        display: none;
+    }
+    .img2 {
+        margin-top: 2rem;
+        display: block;
+    }
+    .img3 {
+        display: none;
+    }
+    .img4{
+        display: block;
+        width: 100%;
+        height: auto;
+        margin-top: 2rem;
+    }
+    .about-us-button{
+        background-color: white !important;
+        color: rgba(133, 100, 4, 1) !important;
+        font-weight: bold;
+    }
+    .about-us-button:hover{
+        background-color: white !important;
+        border: 1px solid black;
+        text-align: center;
+    }
+    .create-account-button, .sign-in-button{
+        color: grey !important;
+    }
+    .create-account-button:hover, .sign-in-button:hover {
+        text-align: center;
+        border: 1px solid black;
+        color: black !important;
+    }
+    .text-1 {
+        line-height: 2rem;
+        font-size:1.5rem;
+    }
+    .text-2 {
+        line-height: 1rem;
+        margin-top: 0;
+        font-size: 1rem;
+    }
+    .line2 {
+        display: flex;
+        flex-direction: column;
+    }
+    .text-3 {
+        margin-top: 1rem;
+    }
+    .text-4 {
+        width: 100%;
+        line-height: 2rem;
+    }
+    .get-started-button {
+        padding-left: 0.95rem;
+        padding-right: 2.5rem;
+        font-size: 1rem;
+        border: 1px solid rgb(90, 76, 34) !important;
+    }
+    .learn-more-button {
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
+        border: 2px solid  rgb(90, 76, 34);
+    }
+    .sign-up-button {
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        padding-left: 2.2rem;
+        padding-right: 2.2rem;
+        margin-left: 1rem;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .img1 {
+        display: block;
+    }
+    .img2 {
+        display: none;
+    }
+    .img3 {
+        display: block;
+        width: 110% !important;
+        height: auto;
+        padding-left: 2vw;
+        margin-top: 3rem;
+    }
+    .img4{
+        display: none;
+    }
+    .text-1{
+        line-height: 53px;
+        font-size: 30px;
+        width: 85%;
+    }
+    .text-2 {
+        width: 90%;
+        margin-top: auto;
+    }
+    .get-started-button {
+        font-size: 1.7rem;
+        padding-top: 0.65em;
+        padding-bottom: 0.65em;
+        padding-left: 3rem;
+    }
+    .text-3 {
+        margin-top: 30vh;
+
+    }
+    .learn-more-button {
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        padding-left: 0.5rem;
+        padding-right: 1rem !important;
+        border: 2px solid  rgb(90, 76, 34);
+    }
+    .sign-up-button {
+        padding-top: 1.2rem;
+        padding-bottom: 1.2rem;
+        padding-left: 2.7vw;
+        padding-right: 2.7vw;   
+    }
+}
+

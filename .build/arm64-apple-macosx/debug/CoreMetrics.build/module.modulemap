@@ -1,0 +1,4 @@
+module CoreMetrics {
+    header "/Users/elcruzo/Documents/Code/HackHarvard/healthrev-swift/health-rev/.build/arm64-apple-macosx/debug/CoreMetrics.build/CoreMetrics-Swift.h"
+    requires objc
+}

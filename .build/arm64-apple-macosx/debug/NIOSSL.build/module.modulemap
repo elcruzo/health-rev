@@ -1,0 +1,4 @@
+module NIOSSL {
+    header "/Users/elcruzo/Documents/Code/HackHarvard/healthrev-swift/health-rev/.build/arm64-apple-macosx/debug/NIOSSL.build/NIOSSL-Swift.h"
+    requires objc
+}

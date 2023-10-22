@@ -1,0 +1,253 @@
+body{
+    font-family: sans-serif;
+}
+
+h5 {
+    font-family: "Raleway";
+}
+
+.logo {
+    width: 20%;
+    height: auto;
+}
+
+#label {
+    font-family: "Inter";
+    width: 30%;
+    font-size: 1.5rem;
+}
+
+#labelc {
+    font-family: "Inter";
+    width: 50%;
+    font-size: 1.5rem;
+}
+
+.fa-solid {
+    color: #271E03;
+}
+
+#message {
+    display:none;
+    margin-top: 1rem;
+}
+
+.invalid {
+    color: red;
+}
+
+.invalid:before {
+    position: relative;
+    left: -2rem;
+    content: "✖";
+}
+
+.valid {
+    color: green;
+}
+
+.valid:before {
+    position: relative;
+    left: -2rem;
+    content: "✔";
+}
+
+.textfield i {
+    position: absolute;
+}
+
+.a {
+    padding-top: 2vh;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    min-width: 40px;
+    display: block !important;
+    font-size: medium;
+}
+
+.b {
+    padding-top: 2vh;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    min-width: 40px;
+    display: block !important;
+    font-size: medium;
+}
+
+.c {
+    padding-top: 2vh;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    min-width: 40px;
+    display: block !important;
+    font-size: medium;
+}
+
+.d {
+    cursor: pointer;
+    margin-left: 19.57vw;
+    margin-top: -4.5vh;
+    font-size: medium;
+    color: #2578D5;
+}
+
+.center{
+    margin-top: -1.5vh !important;
+    background: white;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    height: 65rem;
+    transform: scale(0.85);
+}
+
+.center h3 {
+    text-align: left;
+    padding-top: 2vw;
+    padding-left: 2.5vw;
+    color:black;
+    font-family: "Montserrat";
+    font-weight: 600;
+    line-height: 5vh;
+}
+
+.center h4 {
+    text-align: left;
+    padding-left: 2.5vw;
+    color:#271E03;
+    line-height: 1vh;
+    font-weight: 500;
+    font-family: "Raleway";
+}
+
+.redirect {
+    color: #2578D5;
+    font-weight: 600!important;
+    font-family: "Raleway";
+    text-decoration: none;
+}
+
+.redirect:hover {
+    color: black;
+}
+
+.termsofservice {
+    color: #2578D5;
+    font-family: "Raleway";
+}
+
+.termsofservice:hover {
+    color: black;
+}
+
+input.user, input.email, input.password, input.confirmpassword {
+    display: block;
+    box-sizing: border-box;
+}
+
+input.word {
+    display: flex;
+}
+
+label {
+    display:block;
+}
+
+.center form{
+    padding-right: 1vw !important;
+    padding-left: 2.5vw !important;
+}
+
+form .textfield{
+    position: relative;
+    margin: 10px 0;
+}
+
+.textfield input{
+    width:95%;
+    height: 6.8vh;
+    border-radius: 5px;
+    border: 1px solid #271E03;
+    font-size: 15px;
+    padding: 0 0 0 35px;
+    background-color: rgb(236, 236, 236);
+}
+
+#capslocktext {
+    color: red;
+    display: none;
+}
+
+.check{
+    color: black;
+}
+
+a{
+    color: #2578D5;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+a:active{
+    color: rgb(245, 27, 27);
+}
+
+form .btn{
+    margin-top: 3vh;
+    width: 100%;
+    height: 6vh;
+    border-radius: 5px;
+    border: none;
+    background-color: #2578D5;
+    color: white;
+    font-weight: bold;
+    font-size: 1.5rem;
+    transition: 0.3s;
+    text-align: center;
+}
+
+
+.btn:active{
+    transform: scale(0.97);
+}
+
+.btn-body{
+    padding-left: 0;
+    margin-right: 1.18vw;
+
+}
+
+.btn:hover {
+    border: 1px solid #2578D5;
+}
+
+.remote {
+    margin-left: 10vw;
+    width: 70%;
+    height: auto;
+}
+
+.logofoot {
+    float: right;
+    width: 20%;
+    height: auto;
+    margin-top: 0;
+}
+
+@media only screen and (max-width: 768px) {
+    form .btn {
+        margin-top: 0;
+    }
+    .d {
+        margin-left: 79.43vw;
+    }
+    .center {
+        height: 600px;
+    }
+    .xyz {
+        display: none;
+    }
+}

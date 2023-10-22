@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/elcruzo/Documents/Code/HackHarvard/healthrev-swift/health-rev/.build/arm64-apple-macosx/debug/NIO.build/master.swiftdeps"
+  },
+  "/Users/elcruzo/Documents/Code/HackHarvard/healthrev-swift/health-rev/.build/checkouts/swift-nio/Sources/NIO/Exports.swift": {
+    "dependencies": "/Users/elcruzo/Documents/Code/HackHarvard/healthrev-swift/health-rev/.build/arm64-apple-macosx/debug/NIO.build/Exports.d",
+    "object": "/Users/elcruzo/Documents/Code/HackHarvard/healthrev-swift/health-rev/.build/arm64-apple-macosx/debug/NIO.build/Exports.swift.o",
+    "swiftmodule": "/Users/elcruzo/Documents/Code/HackHarvard/healthrev-swift/health-rev/.build/arm64-apple-macosx/debug/NIO.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/elcruzo/Documents/Code/HackHarvard/healthrev-swift/health-rev/.build/arm64-apple-macosx/debug/NIO.build/Exports.swiftdeps"
+  }
+}

@@ -1,0 +1,4 @@
+module CNIOLLHTTP {
+    umbrella header "/Users/elcruzo/Documents/Code/HackHarvard/healthrev-swift/health-rev/.build/checkouts/swift-nio/Sources/CNIOLLHTTP/include/CNIOLLHTTP.h"
+    export *
+}

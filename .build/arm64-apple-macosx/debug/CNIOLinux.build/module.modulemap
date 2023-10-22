@@ -1,0 +1,4 @@
+module CNIOLinux {
+    umbrella header "/Users/elcruzo/Documents/Code/HackHarvard/healthrev-swift/health-rev/.build/checkouts/swift-nio/Sources/CNIOLinux/include/CNIOLinux.h"
+    export *
+}

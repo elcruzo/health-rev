@@ -1,0 +1,4 @@
+module NIOConcurrencyHelpers {
+    header "/Users/elcruzo/Documents/Code/HackHarvard/healthrev-swift/health-rev/.build/arm64-apple-macosx/debug/NIOConcurrencyHelpers.build/NIOConcurrencyHelpers-Swift.h"
+    requires objc
+}
