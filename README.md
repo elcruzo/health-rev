@@ -34,18 +34,14 @@ Before you can run HealthRev, make sure you have the following prerequisites ins
    ```
 
 3. ```bash
-   cd health-rev
-   ```
-
-4. ```bash
    swift build
    ```
 
-5. ```bash
+4. ```bash
    docker build -t health-rev:latest .
    ```
 
-6. ```bash
+5. ```bash
    docker run -p 8080:8080 health-rev:latest
    ```
 
