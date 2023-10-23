@@ -29,26 +29,34 @@ Before you can run HealthRev, make sure you have the following prerequisites ins
    git clone https://github.com/elcruzo/health-rev.git
    ```
    
-2. ```bash
+2. Navigate to the project directory:
+   
+   ```bash
    cd health-rev
    ```
 
-3. ```bash
+3. Build the Swift Application:
+
+   ```bash
    swift build
    ```
 
-4. ```bash
+4. Build the Docker container:
+
+   ```bash
    docker build -t health-rev:latest .
    ```
 
-5. ```bash
+5. Run the Docker container:
+
+   ```bash
    docker run -p 8080:8080 health-rev:latest
    ```
 
 ## Usage
 To use HealthRev, follow these steps:
 
-1. Open your web browser and navigate to http://localhost:8080.
+1. Open your web browser and navigate to `http://localhost:8080`.
 2. Follow the on-screen instructions for patients or healthcare providers.
 
 ## Contributing
