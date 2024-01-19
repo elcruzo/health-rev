@@ -1,4 +1,0 @@
-module CAsyncHTTPClient {
-    umbrella header "/Users/elcruzo/Documents/Code/HackHarvard/healthrev-swift/health-rev/.build/checkouts/async-http-client/Sources/CAsyncHTTPClient/include/CAsyncHTTPClient.h"
-    export *
-}

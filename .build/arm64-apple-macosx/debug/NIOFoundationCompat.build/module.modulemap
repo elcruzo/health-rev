@@ -1,4 +1,0 @@
-module NIOFoundationCompat {
-    header "/Users/elcruzo/Documents/Code/HackHarvard/healthrev-swift/health-rev/.build/arm64-apple-macosx/debug/NIOFoundationCompat.build/NIOFoundationCompat-Swift.h"
-    requires objc
-}

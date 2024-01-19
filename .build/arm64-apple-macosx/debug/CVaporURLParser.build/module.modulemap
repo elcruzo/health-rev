@@ -1,4 +1,0 @@
-module CVaporURLParser {
-    umbrella "/Users/elcruzo/Documents/Code/HackHarvard/healthrev-swift/health-rev/.build/checkouts/vapor/Sources/CVaporURLParser/include"
-    export *
-}

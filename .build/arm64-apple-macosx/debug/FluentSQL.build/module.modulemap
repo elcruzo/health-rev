@@ -1,4 +1,0 @@
-module FluentSQL {
-    header "/Users/elcruzo/Documents/Code/HackHarvard/healthrev-swift/health-rev/.build/arm64-apple-macosx/debug/FluentSQL.build/FluentSQL-Swift.h"
-    requires objc
-}

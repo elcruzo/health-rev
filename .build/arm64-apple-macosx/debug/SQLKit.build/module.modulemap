@@ -1,4 +1,0 @@
-module SQLKit {
-    header "/Users/elcruzo/Documents/Code/HackHarvard/healthrev-swift/health-rev/.build/arm64-apple-macosx/debug/SQLKit.build/SQLKit-Swift.h"
-    requires objc
-}

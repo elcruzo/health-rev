@@ -1,4 +1,0 @@
-module NIOHTTPCompression {
-    header "/Users/elcruzo/Documents/Code/HackHarvard/healthrev-swift/health-rev/.build/arm64-apple-macosx/debug/NIOHTTPCompression.build/NIOHTTPCompression-Swift.h"
-    requires objc
-}

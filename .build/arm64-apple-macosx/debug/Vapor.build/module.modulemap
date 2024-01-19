@@ -1,4 +1,0 @@
-module Vapor {
-    header "/Users/elcruzo/Documents/Code/HackHarvard/healthrev-swift/health-rev/.build/arm64-apple-macosx/debug/Vapor.build/Vapor-Swift.h"
-    requires objc
-}

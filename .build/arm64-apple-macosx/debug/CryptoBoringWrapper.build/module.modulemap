@@ -1,4 +1,0 @@
-module CryptoBoringWrapper {
-    header "/Users/elcruzo/Documents/Code/HackHarvard/healthrev-swift/health-rev/.build/arm64-apple-macosx/debug/CryptoBoringWrapper.build/CryptoBoringWrapper-Swift.h"
-    requires objc
-}

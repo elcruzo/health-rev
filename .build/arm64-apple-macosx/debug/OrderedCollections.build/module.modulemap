@@ -1,4 +1,0 @@
-module OrderedCollections {
-    header "/Users/elcruzo/Documents/Code/HackHarvard/healthrev-swift/health-rev/.build/arm64-apple-macosx/debug/OrderedCollections.build/OrderedCollections-Swift.h"
-    requires objc
-}
